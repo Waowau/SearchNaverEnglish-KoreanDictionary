@@ -1,9 +1,6 @@
 # Search Naver English-Korean Dictionary
----
 - Quickly look up words on Naver's English-Korean dictionary (en.dict.naver.com)
----
 # Privacy Policy
----
 This extension does not collect, store, or transmit any personally identifiable information.
 
 - When you select text or enter text into the popup, the extension uses that input to perform a dictionary lookup.
